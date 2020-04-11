@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{B4B35097-896E-885E-D8D1-464DBA46BBDD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Projectile.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="18" Column="21" />
+      <File FileName="Assets/Scripts/Projectile.cs" Line="20" Column="20" />
+      <File FileName="Assets/Scripts/Target.cs" Line="26" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Q4_ShenMingyuan" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Projectile.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1944c376-2fc2-475e-a6ed-9bd7c4399b0e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

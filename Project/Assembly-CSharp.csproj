@@ -63,9 +63,45 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\E2.cs" />
     <Compile Include="Assets\Scripts\Enemy.cs" />
+    <Compile Include="Assets\Scripts\Knockback.cs" />
+    <Compile Include="Assets\Scripts\Menu.cs" />
     <Compile Include="Assets\Scripts\MyPlayer.cs" />
+    <Compile Include="Assets\Scripts\PlayerHit.cs" />
     <Compile Include="Assets\Scripts\Subject.cs" />
+    <Compile Include="Assets\Scripts\Torch.cs" />
+    <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />
+    <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
+    <None Include="Assets\HolderForArts\TimeFantasy_TILES_6.24.17\README_UPDATE.txt" />
+    <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc" />
+    <None Include="Assets\HolderForArts\topdown_shooter\characters\readme.txt" />
+    <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
+    <None Include="Assets\HolderForArts\rpg-dungeon-pack v1.1(wonderdot)\readme.txt" />
+    <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
+    <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
+    <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Masking.shader" />
+    <None Include="Assets\HolderForArts\TimeFantasy_TILES_6.24.17\READ_ME.txt" />
+    <None Include="Assets\HolderForArts\topdown_shooter\guns\readme.txt" />
+    <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader" />
+    <None Include="Assets\HolderForArts\timefantasy_characters\RPGMAKERMV\README.txt" />
+    <None Include="Assets\HolderForArts\tf_japan_11.2.19\readme.txt" />
+    <None Include="Assets\HolderForArts\tf_svbattle\readme.txt" />
+    <None Include="Assets\HolderForArts\timefantasy_characters\readme_update.txt" />
+    <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF Overlay.shader" />
+    <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
+    <None Include="Assets\HolderForArts\beast_tribes\readme-please.txt" />
+    <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_Surface.cginc" />
+    <None Include="Assets\HolderForArts\timefantasy_characters\READ_ME.txt" />
+    <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader" />
+    <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader" />
+    <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc" />
+    <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF.shader" />
+    <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader" />
+    <None Include="Assets\HolderForArts\topdown_shooter\towers\readme.txt" />
+    <None Include="Assets\HolderForArts\omega_modern_12919\graphics\README.txt" />
+    <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader" />
+    <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Users/mingyuan/WashU/CSE450/Project/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>

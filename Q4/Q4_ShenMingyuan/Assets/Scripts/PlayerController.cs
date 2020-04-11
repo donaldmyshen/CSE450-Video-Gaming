@@ -1,8 +1,11 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerController : MonoBehaviour{
+
+    public static PlayerController instance;
     //Outlet
     Rigidbody2D rigidbody;
     public Transform aimPivot;
@@ -10,8 +13,17 @@ public class PlayerController : MonoBehaviour{
     SpriteRenderer sprite;
     Animator animator;
 
+    public Text scoreUI;
+
     //State Tracking
     public int jumpsLeft;
+    public int score;
+
+    // Methods
+    void Awake()
+    {
+        instance = this;
+    }
 
     // Start is called before the first frame update
     void Start(){
@@ -32,6 +44,10 @@ public class PlayerController : MonoBehaviour{
 
     // Update is called once per frame
     void Update(){
+
+        // Update UI
+        scoreUI.text = score.ToString();
+
         //Move Player Left
         if (Input.GetKey(KeyCode.A)){
             rigidbody.AddForce(Vector2.left * 12f);

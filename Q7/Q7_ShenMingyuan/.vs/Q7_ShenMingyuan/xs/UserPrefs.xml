@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{93772AE5-9A9D-C3BA-E39F-F26CDD3A3EA8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MenuController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SoundManager.cs" Line="30" Column="1" />
+      <File FileName="Assets/Scripts/Projectile.cs" Line="34" Column="1" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="107" Column="6" />
+      <File FileName="Assets/Scripts/Target.cs" Line="15" Column="12" />
+      <File FileName="Assets/Scripts/MenuController.cs" Line="75" Column="35" />
+      <File FileName="Assets/Scripts/LevelBounds.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Q7_ShenMingyuan" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="MenuController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e3634a74-2f60-4f45-9857-303f6be1804e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

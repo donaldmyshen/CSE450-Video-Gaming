@@ -170,7 +170,7 @@ PrefabInstance:
     - target: {fileID: 5390932477624975313, guid: af276036a95c643fe81e5421c7edde0f,
         type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 5390932477624975313, guid: af276036a95c643fe81e5421c7edde0f,
         type: 3}
@@ -671,7 +671,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   aimPivot: {fileID: 1144375330}
-  projectilePrefab: {fileID: 1009607166}
+  projectilePrefab: {fileID: 5510587290833941207, guid: 3c835febc6694487bb53549ecb458c83,
+    type: 3}
   jumpsLeft: 2
 --- !u!95 &987622072
 Animator:
@@ -692,12 +693,6 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!1 &1009607166 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5510587290833941207, guid: 3c835febc6694487bb53549ecb458c83,
-    type: 3}
-  m_PrefabInstance: {fileID: 5200024729682071830}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1144375329
 GameObject:
   m_ObjectHideFlags: 0
@@ -839,7 +834,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 9.338292, y: 0.27723312}
@@ -1295,7 +1290,7 @@ PrefabInstance:
     - target: {fileID: 3639372331320009523, guid: 3c835febc6694487bb53549ecb458c83,
         type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 3639372331320009523, guid: 3c835febc6694487bb53549ecb458c83,
         type: 3}
@@ -1316,6 +1311,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Projectile
+      objectReference: {fileID: 0}
+    - target: {fileID: 5510587290833941207, guid: 3c835febc6694487bb53549ecb458c83,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c835febc6694487bb53549ecb458c83, type: 3}
@@ -1369,7 +1369,7 @@ PrefabInstance:
     - target: {fileID: 5390932477624975313, guid: af276036a95c643fe81e5421c7edde0f,
         type: 3}
       propertyPath: m_RootOrder
-      value: 4
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5390932477624975313, guid: af276036a95c643fe81e5421c7edde0f,
         type: 3}
