@@ -1,17 +1,22 @@
 ﻿<Properties StartupConfiguration="{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Enemy.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Death.cs">
     <Files>
       <File FileName="Assets/Scripts/Enemy.cs" Line="23" Column="1" />
-      <File FileName="Assets/Scripts/MyPlayer.cs" />
+      <File FileName="Assets/Scripts/MyPlayer.cs" Line="68" Column="22" />
+      <File FileName="Assets/Scripts/Menu.cs" Line="12" Column="6" />
+      <File FileName="Assets/Scripts/E2.cs" Line="25" Column="1" />
+      <File FileName="Assets/Scripts/EE.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerHit.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Subject.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Torch.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Death.cs" Line="13" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Project" expanded="True">
             <Node name="Assets" expanded="True">
-              <Node name="Scripts" expanded="True">
-                <Node name="Enemy.cs" selected="True" />
-              </Node>
+              <Node name="Scripts" selected="True" />
             </Node>
           </Node>
         </State>
@@ -20,7 +25,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0dc4294a-6686-422c-879e-1b17925a31c5" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d100247b-7ad4-4fe2-b3e0-f69abf02dc9e" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

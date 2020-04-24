@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{86FFCC9C-2646-80B9-1BF7-587E5C544CC2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Breakable.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Breakable.cs" Line="23" Column="1" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="121" Column="2" />
+      <File FileName="Assets/Scripts/CameraController.cs" Line="4" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Q10_ShenMingyuan" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Breakable.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="da7b2590-77c3-494d-b5d7-78d0928e7cac" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
